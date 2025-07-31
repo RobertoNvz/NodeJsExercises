@@ -1,2 +1,5 @@
-var msg = "hello world";
-console.log(msg);
+var msg = "hello";
+var msg2 = " world";
+
+console.log(msg + msg2);
+ 
